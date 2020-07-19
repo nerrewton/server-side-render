@@ -1,3 +1,6 @@
+# server-side-render
+This is a public example of creating a new react app server side render, I don't know how it works so it's my first tried
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
